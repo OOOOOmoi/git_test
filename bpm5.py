@@ -5,7 +5,7 @@ from jax.scipy.signal import convolve
 #from brainpy.math import convolve
 import time
 import matplotlib.pyplot as plt
-
+##
 
 from jax.lax import conv_general_dilated
 
